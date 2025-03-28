@@ -1,0 +1,8 @@
+{
+  "macros": [
+    {
+      "event": "onDocumentOpen",
+      "script": "Api.ShowMessage('Exec');"
+    }
+  ]
+}
